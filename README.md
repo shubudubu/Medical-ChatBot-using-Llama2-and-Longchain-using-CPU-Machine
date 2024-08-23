@@ -1,4 +1,4 @@
-#Healthcare ChatBot - Powered by LLaMA 2 and LangChain
+<b>Healthcare ChatBot - Powered by LLaMA 2 and LangChain</b>
 
 Description:This project is a Healthcare ChatBot designed to assist users by answering their queries related to healthcare and mental well-being. It leverages state-of-the-art language models and retrieval-based natural language processing techniques, making it a powerful tool for personalized healthcare advice and information.
 
