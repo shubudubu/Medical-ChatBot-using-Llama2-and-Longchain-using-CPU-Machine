@@ -35,4 +35,4 @@ Interact: Start a conversation with the bot, asking health-related questions. Th
 Review Chat History: The bot keeps track of previous interactions to maintain the conversation flow, making it easy for users to continue where they left off.
 This chatbot is a cutting-edge example of how advanced language models and retrieval systems can be applied in the healthcare domain, offering users a reliable source of information while engaging them in meaningful dialogue.
 
-![healthcareBotImage](https://https://github.com/shubudubu/258660213-0f610cc4-8fda-456e-b4ce-4a871fe93936.jpg)
+
